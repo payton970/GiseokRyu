@@ -36,6 +36,12 @@ User can custom the layout up to 8X8(total 64 CCTV) in one layout.<br/>
 Also, user can have multiple tabs in Streaming section.<br/>
 ![](Media/cctv_controll.png)
 
+### Controll PTZ CCTV: <br/>
+If the selected CCTV's type is PTZ camera, User can zoom & move the direction of cctv by using PTZ Controller<br/>
+User can also use stored directions.<br/>
+![](Media/hamburger_menu.png)
+![](Media/ptz_controller.png)
+
 ### Checking the location: <br/>
 User can check the location of all cctv.<br/>
 By using Kakao GIS API, it is more easy to find out where the cctv is.<br/>
