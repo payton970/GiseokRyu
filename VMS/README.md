@@ -42,19 +42,23 @@ User can also use stored directions.<br/>
 ![](Media/hamburger_menu.png)
 ![](Media/ptz_controller.png)
 
-### Checking the location: <br/>
+### Checking The Location: <br/>
 User can check the location of all cctv.<br/>
 By using Kakao GIS API, it is more easy to find out where the cctv is.<br/>
 User can zoom in & out, move up & down & right & left the map.<br/>
 ![](Media/cctv_location.png)
 
-### PopUp location: <br/>
+### PopUp Location: <br/>
 It is possible to make PopUp window for live map.<br/>
 ![](Media/PopUp.png)
 
-### Live CCTV on Map: <br/>
+### Live CCTV On Map: <br/>
 Whenever the user hover the mouse on the CCTV icon, the program will show the live.<br/>
 ![](Media/live_cctv.png)
+
+### All CCTVs In One Map: <br/>
+In LiveMap session, user can find all the CCTVs just in one map.<br/>
+![](Media/live_map.png)
 
 ### All Informations about the program: <br/>
 User can access the information about 'Log History' 'System Monitoring' 'Version Status'.<br/>
