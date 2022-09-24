@@ -50,4 +50,8 @@ It is possible to make PopUp window for live map.<br/>
 Whenever the user hover the mouse on the CCTV icon, the program will show the live.<br/>
 ![](Media/live_cctv.png)
 
-
+### All Informations about the program: <br/>
+User can access the information about 'Log History' 'System Monitoring' 'Version Status'.<br/>
+![](Media/log_history.png)
+![](Media/system_monitoring.png)
+![](Media/version_status.png)
