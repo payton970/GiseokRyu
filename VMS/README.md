@@ -8,7 +8,7 @@ Here is the database design (excluding views) with all foreign keys connected:
 Create a Installer for VMS.<br/>
 ![](Media/Installer.png)
 
-##Major Tabs
+## Major Tabs
 There are total 7 tabs and each tab has different role <br/>
 1. Home = User can watch streaming <br/>
 2. Record = User can watch recorded video <br/>
