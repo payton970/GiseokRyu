@@ -3,6 +3,16 @@ Here is the database design (excluding views) with all foreign keys connected:
 ![](Media/Database_design.png)
 
 ## Description
+There are total 7 tabs and each tab has different role <br/>
+1. Home = User can watch streaming <br/>
+2. Record = User can watch recorded video <br/>
+3. SmartSearch = User can search specific objects(i.e red backpack, blue SUV, truck etc.) for any reason <br/>
+4. Event = User can search irreular event (i.e covering CCTV from unknown, unplanned CCTV movement etc.) <br/>
+5. SmartTraffic = Users can grasp the current traffic situation at a glance <br/>
+6. SmartSafety = Users can access the video which CCTV automatically storing incident video using artificial intelligence technology <br/>
+7. LiveMap = A user can grasp the location and information of CCTV through a real-time map using GIS </br>
+![](Media/major_tabs.png)
+
 
 ### Installer: <br/>
 Create a Installer for VMS.<br/>
