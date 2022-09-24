@@ -3,6 +3,12 @@ Here is the database design (excluding views) with all foreign keys connected:
 ![](Media/Database_design.png)
 
 ## Description
+
+### Installer: <br/>
+Create a Installer for VMS.<br/>
+![](Media/Installer.png)
+
+##Major Tabs
 There are total 7 tabs and each tab has different role <br/>
 1. Home = User can watch streaming <br/>
 2. Record = User can watch recorded video <br/>
@@ -12,11 +18,6 @@ There are total 7 tabs and each tab has different role <br/>
 6. SmartSafety = Users can access the video which CCTV automatically storing incident video using artificial intelligence technology <br/>
 7. LiveMap = A user can grasp the location and information of CCTV through a real-time map using GIS </br>
 ![](Media/major_tabs.png)
-
-
-### Installer: <br/>
-Create a Installer for VMS.<br/>
-![](Media/Installer.png)
 
 ### Default Page: <br/>
 This is the default page when progrom open.<br/>
@@ -48,3 +49,5 @@ It is possible to make PopUp window for live map.<br/>
 ### Live CCTV on Map: <br/>
 Whenever the user hover the mouse on the CCTV icon, the program will show the live.<br/>
 ![](Media/live_cctv.png)
+
+
