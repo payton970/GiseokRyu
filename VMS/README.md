@@ -2,10 +2,10 @@
 Here is the database design (excluding views) with all foreign keys connected:
 ![](Media/Database_design.png)
 
-##Description
+## Description
 
 ### Installer: <br/>
-Create a Installer for VMS
+Create a Installer for VMS.<br/>
 ![](Media/Installer.png)
 
 ### Default Page: <br/>
@@ -16,4 +16,4 @@ User can drag & drop or double clicking the cctv icon to watch live stream. <br/
 
 ### Event Alert: <br/>
 At the left bottom side, if there are any issues occure, there will be warning alerts.<br/>
-![](Media/Event Alert.png)
+![](Media/Event-Alert.png)
