@@ -16,4 +16,4 @@ User can drag & drop or double clicking the cctv icon to watch live stream. <br/
 
 ### Event Alert: <br/>
 At the left bottom side, if there are any issues occure, there will be warning alerts.<br/>
-![](Media/Event-Alert.png)
+![](Media/Event Alert.png)
