@@ -2,6 +2,7 @@
 I’m a Computer Science junior at Binghamton University.
 
 [Video Management System](#video-management-system) <br/>
+[Algorithms](#algorithms) <br/>
 
 ## Video Management System
 This is a project that I have been doing during past internship (in C#, XAML) <br/>
