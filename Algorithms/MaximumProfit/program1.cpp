@@ -45,23 +45,6 @@ bool containsOnlyNumbers(std::string const &str) {
     return str.find_first_not_of("0123456789") == std::string::npos;
 }
 
-void makePossibleSets(int &num_cards, vector<string> sets, int amount, int &profits, int cur_profits, int index, vector<string> &cur_set){
-	// if(index > sets.size() -1 || amount < 0) return;
-	// if(amount == 0){
-	// 	if(cur_profits > profits){
-	// 		profits = cur_profits;
-	// 		num_cards = cur_set.size();
-	// 	}
-	// 	return;
-	// }
-	// cur_set.push_back(sets.at(index));
-	// vector<string> temp_vec;
-	// spliting(sets.at(index), temp_vec);
-	// makePossibleSets(num_cards, sets, amount - stoi(temp_vec[1]), profits, cur_profits, index, cur_set);
-
-	// return;
-}
-
 int totalProfits(vector<string> subset){
 	int total = 0;
 	for(int i = 0; i < subset.size(); i++){
@@ -131,7 +114,6 @@ int main(int argc, char* argv[]){
 		spliting(temp, temp_vec);
 		mp_map[temp_vec.at(0)] = stoi(temp_vec.at(1)); 
 	}
-    //checkingMap(mp_map);
 
 	/* Put Market Price to Map */
 
@@ -191,8 +173,6 @@ int main(int argc, char* argv[]){
 				
 				cur_profits += mp_map.at(temp_vec_inside[0]) - stoi(temp_vec_inside[1]);
 			}
-			// cout << "This is the cur profits: " << cur_profits << endl;
-			// cout << "" << endl;
 
 			if(cur_profits > max_profits){				
 				max_profits = cur_profits;
@@ -201,11 +181,6 @@ int main(int argc, char* argv[]){
 		}
 		// Stop the clock
 		t = clock() - t;
-
-		// file << "The size of the input: " << input_size<< "\n";
-		// file << "The computed maximum profit, in integer dollars: " << "$" << max_profits << "\n";
-		// file << "The number of cards that you could purchase to achieve the maximum profit: " << num_cards << "\n";
-		// file << "The time (in seconds) it took to solve the problem: " << static_cast<float>(t)/CLOCKS_PER_SEC << "sec\n\n\n";
 		file << input_size << " " << max_profits << " " << num_cards << " " << static_cast<float>(t)/CLOCKS_PER_SEC << "sec\n";
 	}
 	file.close();
