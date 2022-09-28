@@ -1,9 +1,9 @@
 # GiseokRyu
 👋🏻I’m a Computer Science junior at Binghamton University👋🏻.
 
-[📹Video Management System📹](#video-management-system) <br/>
-[🎙️Representative Of Computer Science🎙️](#representative-of-computer-science) <br/>
-[📝Algorithms📝](#algorithms) <br/>
+[Video Management System 📹](#video-management-system) <br/>
+[Representative Of Computer Science 🎙️](#representative-of-computer-science) <br/>
+[Algorithms 📝](#algorithms) <br/>
 
 ## Video Management System
 ![logo](https://user-images.githubusercontent.com/33699776/192123758-887e6209-2cfb-454a-9125-190582f1c2ea.png) <br/>
