@@ -2,7 +2,7 @@
 👋🏻I’m a Computer Science junior at Binghamton University👋🏻.
 
 [Video Management System](#video-management-system) <br/>
-[Representative Of The Department Of Computer Science](#representative-of-computer-science) <br/>
+[Representative Of Computer Science](#representative-of-computer-science) <br/>
 [Algorithms](#algorithms) <br/>
 
 ## 📹 Video Management System
