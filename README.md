@@ -3,6 +3,7 @@
 
 [Video Management System 📹](#video-management-system) <br/>
 [Representative Of Computer Science 🎙️](#representative-of-computer-science) <br/>
+[Research Paper 📝](#research-paper) <br/>
 [Algorithms 📝](#algorithms) <br/>
 
 ## Video Management System
@@ -22,3 +23,7 @@ Given some fixed maximum amount of money to spend, the market values of cards, a
 how much money could you make by purchasing baseball cards from local card, and which cards should you buy?
 <br/>[Source Code](https://github.com/payton970/GiseokRyu/tree/main/Algorithms/MaximumProfit)
 
+## Research Paper
+#### BDS IS THE MOST USEFUL METHOD FOR GPS
+The Taylor method and BeiDou Navigation Satellite System method (BDS) are the common methods which are applied to GPS systems. However, the BDS method will provide a more precise location to the user than the Taylor method. I described how do these two methods work and compared them to prove that the BDS method far surpasses the Taylor Method.
+<br/>[Source Code](https://github.com/payton970/GiseokRyu/tree/main/Algorithms/MaximumProfit)
