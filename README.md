@@ -19,7 +19,7 @@ As I became the representative of the department, I was able to learn responsibi
 ## Research Paper
 #### BDS IS THE MOST USEFUL METHOD FOR GPS
 The Taylor method and BeiDou Navigation Satellite System method (BDS) are the common methods which are applied to GPS systems. However, the BDS method will provide a more precise location to the user than the Taylor method. I described how do these two methods work and compared them to prove that the BDS method far surpasses the Taylor Method.
-<br/>[Source Code](https://github.com/payton970/payton970/tree/main/etc)
+<br/>[See PDF version](https://github.com/payton970/payton970/tree/main/etc)
 
 ## Algorithms
 #### Making Maximum Profits
