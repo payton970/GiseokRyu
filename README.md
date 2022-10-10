@@ -3,7 +3,7 @@
 
 [Video Management System 📹](#video-management-system) <br/>
 [Representative Of Computer Science 🎙️](#representative-of-computer-science) <br/>
-[Research Paper 📝](#research-paper) <br/>
+[Research Paper 📖](#research-paper) <br/>
 [Algorithms 📝](#algorithms) <br/>
 
 ## Video Management System
@@ -16,6 +16,10 @@ VMS applied CCTV video information to big data platforms and artificial intellig
 ![Screen Shot 2022-09-28 at 12 03 02 AM](https://user-images.githubusercontent.com/33699776/192685323-b72537f5-e5e4-4212-9bc3-7462f15c61d6.png) <br/>
 As I became the representative of the department, I was able to learn responsibility and leadership for my new role, and I was able to experience various human relationships as I had more contact with seniors and juniors, including school professors. Additionally, with Undergraduate & Graduate Program Director professors and Engineering Advisor, I introduced the advantages and special reasons for our school's computer science to many people. 
 
+## Research Paper
+#### BDS IS THE MOST USEFUL METHOD FOR GPS
+The Taylor method and BeiDou Navigation Satellite System method (BDS) are the common methods which are applied to GPS systems. However, the BDS method will provide a more precise location to the user than the Taylor method. I described how do these two methods work and compared them to prove that the BDS method far surpasses the Taylor Method.
+<br/>[Source Code](https://github.com/payton970/payton970/tree/main/etc)
 
 ## Algorithms
 #### Making Maximum Profits
@@ -23,7 +27,4 @@ Given some fixed maximum amount of money to spend, the market values of cards, a
 how much money could you make by purchasing baseball cards from local card, and which cards should you buy?
 <br/>[Source Code](https://github.com/payton970/GiseokRyu/tree/main/Algorithms/MaximumProfit)
 
-## Research Paper
-#### BDS IS THE MOST USEFUL METHOD FOR GPS
-The Taylor method and BeiDou Navigation Satellite System method (BDS) are the common methods which are applied to GPS systems. However, the BDS method will provide a more precise location to the user than the Taylor method. I described how do these two methods work and compared them to prove that the BDS method far surpasses the Taylor Method.
-<br/>[Source Code](https://github.com/payton970/GiseokRyu/tree/main/Algorithms/MaximumProfit)
+
