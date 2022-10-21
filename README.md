@@ -26,5 +26,7 @@ The Taylor method and BeiDou Navigation Satellite System method (BDS) are the co
 Given some fixed maximum amount of money to spend, the market values of cards, and local card prices, 
 how much money could you make by purchasing baseball cards from local card, and which cards should you buy?
 <br/>[Source Code](https://github.com/payton970/GiseokRyu/tree/main/Algorithms/MaximumProfit)
-
+#### Finding the Winner of TV Show
+Reality TV Game Shows such as Survivor, American Idol, Master Chef, and more, are often structured similarly to one another: contestants compete weekly, and after each competition, one or more contestants are eliminated from the show until a single contestant remains and is crowned the winner. This implemented a data structure that can be used to simulate the progress of an elimination game. In particular, this implemented an extended min-heap to implement a priority queue.
+<br/>[Source Code](https://github.com/payton970/payton970/tree/main/Algorithms/WinnerOfTVShow)
 
